@@ -2,7 +2,7 @@
 
 Hack Pull Request
 
-| Hacks       | Details             |
-| ----------- | -------------       |
-| H-1         | Pull Request alfa   |
-| H-2         | Pull Request bravo  |
+| Hacks       | Details             |  Responsible      |
+| ----------- | -------------       |  ------------
+| H-1         | Pull Request alfa   |  Nilsen Martínez  |
+| H-2         | Pull Request bravo  |  Liliana Guerra   |
